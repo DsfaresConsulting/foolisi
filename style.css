@@ -74,6 +74,14 @@
 .sub-header {
 	text-align: center;
 }
+.tagline {
+  margin-top: 20px;
+}
+
+.typeform-share.btn.btn-primary {
+  margin-top:75px;
+  font-size: 24px;
+}
 
 .details li {
 	font-size: 1.6em;
