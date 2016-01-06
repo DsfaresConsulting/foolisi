@@ -33,3 +33,11 @@
 .well {
 	border-radius: 0;
 }
+
+.coffee-image {
+  width:400px;
+  margin: 5px auto;
+}
+.coffee-image img {
+  max-width:100%;
+}
