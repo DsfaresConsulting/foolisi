@@ -10,7 +10,6 @@
 }
 
 .typeform-share.btn.btn-primary {
-  margin-top:75px;
   font-size: 24px;
 }
 
@@ -36,7 +35,7 @@
 
 .coffee-image {
   width:600px;
-  margin: 20px auto;
+  margin: 30px auto;
 }
 .coffee-image img {
   max-width:100%;
