@@ -23,6 +23,7 @@
 
 .details h2 {
 	text-align: center;
+  margin-bottom:20px;
 }
 
 .detail-footer {
@@ -68,4 +69,8 @@
 }
 
 .explainer-boxes .well {
+}
+
+.page-header {
+    margin-top: 0;
 }
