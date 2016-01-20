@@ -77,4 +77,6 @@
 
 .launched-in-dfw {
     text-align: right;
+    max-height:90px;
+    max-width: 30px;
 }
