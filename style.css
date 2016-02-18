@@ -20,7 +20,13 @@
   padding-left: 20px;
   padding-right: 20px;
 }
+
 .details li {
+  font-size: 1.6em;
+  list-style: none;
+}
+
+.details .explainer-boxes li {
 	font-size: 1.1em;
 	border-bottom: 1px solid #eee;
 	list-style: disc;
