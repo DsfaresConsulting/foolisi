@@ -16,11 +16,14 @@
   font-size: 24px;
 }
 
+.details ul {
+  padding-left: 20px;
+  padding-right: 20px;
+}
 .details li {
-	font-size: 1.6em;
-	padding:20px 0;
+	font-size: 1.1em;
 	border-bottom: 1px solid #eee;
-	list-style: none;
+	list-style: disc;
 	color: #555;
 }
 
