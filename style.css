@@ -24,11 +24,13 @@
 .details li {
   font-size: 1.6em;
   list-style: none;
+  padding-bottom:10px;
 }
 
 .details .explainer-boxes li {
 	font-size: 1.1em;
 	border-bottom: 1px solid #eee;
+  padding-bottom:0;
 	list-style: disc;
 	color: #555;
 }
