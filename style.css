@@ -103,4 +103,12 @@
   .bs-docs-footer-links li {
     display:block;
   }
+  .launched-in-dfw {
+    text-align: center;
+  }
+  .launched-in-dfw img {
+    max-height:50px;
+    padding-bottom: 20px;
+  }
+
 }
