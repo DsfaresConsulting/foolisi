@@ -99,7 +99,7 @@
     max-height:90px;
 }
 
-@media (min-width: @screen-sm-min) { 
+@media (min-width: 1000px) { 
   .bs-docs-footer-links li {
     display:block;
   }
