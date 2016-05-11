@@ -98,3 +98,9 @@
 .launched-in-dfw img {
     max-height:90px;
 }
+
+@media (min-width: @screen-sm-min) { 
+  .bs-docs-footer-links li {
+    display:block;
+  }
+}
