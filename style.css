@@ -57,7 +57,7 @@
     margin-bottom: 20px;
 }
 
-.bs-docs-footer-links li {
+.bs-docs-footer .bs-docs-footer-links li {
     display: inline-block;
 }
 .bs-docs-footer-links li+li {
