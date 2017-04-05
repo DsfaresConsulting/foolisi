@@ -1,3 +1,6 @@
+.explainer-boxes {
+  font-size: 16px;
+}
 .jumbotron {
 	text-align: center;
 	margin-bottom: 0;
@@ -10,14 +13,29 @@
 }
 
 .typeform-share.btn.btn-primary {
-  font-size: 24px;
+  font-size: 18px;
+}
+.explainer-boxes .typeform-share {
+  text-align: center;
+  width:100%;
+}
+
+.details ul {
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .details li {
-	font-size: 1.6em;
-	padding:20px 0;
+  font-size: 1.6em;
+  list-style: none;
+  padding-bottom:10px;
+}
+
+.details .explainer-boxes li {
+	font-size: 1.1em;
 	border-bottom: 1px solid #eee;
-	list-style: none;
+  padding-bottom:0;
+	list-style: disc;
 	color: #555;
 }
 
@@ -35,7 +53,7 @@
 }
 
 .coffee-image {
-  max-width:500px;
+  max-width:350px;
   padding:0 20px;
   margin: 25px auto;
 }
@@ -44,8 +62,7 @@
 }
 
 .bs-docs-footer {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 50px 10px;
     margin-top: 50px;
     color: #99979c;
     text-align: left;
@@ -73,4 +90,24 @@
 
 .page-header {
     margin-top: 0;
+}
+
+.launched-in-dfw {
+    text-align: right;
+}
+.launched-in-dfw img {
+    max-height:90px;
+}
+
+@media (max-width: 1000px) { 
+  .bs-docs-footer-links li {
+    display:block;
+  }
+  .launched-in-dfw {
+    text-align: center;
+  }
+  .launched-in-dfw img {
+    max-height:50px;
+    padding-bottom: 20px;
+  }
 }
